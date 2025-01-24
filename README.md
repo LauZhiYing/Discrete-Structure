@@ -1,24 +1,17 @@
-# Quiz 1
-
-
-# Quiz 2
-
-
-# Quiz 3
-
-
-# Quiz 4
 # Assignment 1
 
 https://github.com/LauZhiYing/Discrete-Structure/blob/main/%5BAssignment%201%5D%20SECI1013%20Discrete%20Structure.pdf
+![](https://github.com/LauZhiYing/Discrete-Structure/blob/main/Assignment%201.jpeg)
 
 # Assignment 2
 
 https://github.com/LauZhiYing/Discrete-Structure/blob/main/%5BAssignment%202%5D%20SECI1013%20Discrete%20Structure.pdf
+![](https://github.com/LauZhiYing/Discrete-Structure/blob/main/Assignment%202.jpeg)
 
 # Assignment 3
 
 https://github.com/LauZhiYing/Discrete-Structure/blob/main/%5BAssignment%203%5D%20SECI1013%20Discrete%20Structure.pdf
+![](https://github.com/LauZhiYing/Discrete-Structure/blob/main/Assignment%203.jpeg)
 
 # Assignment 4
 
