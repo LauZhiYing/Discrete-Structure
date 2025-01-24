@@ -1,6 +1,8 @@
 # Assignment 1
+Here are just some simple evidence of my assignment
 
 https://github.com/LauZhiYing/Discrete-Structure/blob/main/%5BAssignment%201%5D%20SECI1013%20Discrete%20Structure.pdf
+
 ![](https://github.com/LauZhiYing/Discrete-Structure/blob/main/Assignment%201.jpeg)
 
 # Assignment 2
